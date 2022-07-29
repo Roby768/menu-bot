@@ -2,24 +2,24 @@ from typing import Dict, List
 
 
 GROUPS: Dict = {
-    "en": -1001519273319,
-    "pt": -1001519273319,
+    "en": -1001438313485,
+    "pt": -1001438313485,
 }
 CHANNELS: Dict = {
-    "en": -1001519273319,
-    "pt": -1001706431524,
-    "ani01": -1001204586138,
-    "admin": -1001559315851,
+    "en": -1001438313485,
+    "pt": -1001438313485,
+    "ani01": -1001438313485,
+    "admin": -1001438313485,
 }
 CHATS: Dict = {
-    "backup": -1001501672138,
-    "anireborn": -1001204586138,
-    "ccgnimex": -1001519273319,
-    "requests": -1001519273319, 
-    "videos": -1001728558641,
-    "staff": -1001519273319,
+    "backup": -1707997650,
+    "anireborn": -1707997650,
+    "ccgnimex": -1001438313485,
+    "requests": -1001438313485, 
+    "videos": -1001438313485,
+    "staff": -1001438313485,
 }
 
-SUDO_USERS: List[int] = [1765145725, 1457083910, 1808809023, 784985038]  # @AndrielFR, @Hitalo and @VegaZS
+SUDO_USERS: List[int] = [1001438313485]  # @AndrielFR, @Hitalo and @VegaZS
 PREFIXES: List[str] = ["!", "/"] # Like !start or /start
 #tes
